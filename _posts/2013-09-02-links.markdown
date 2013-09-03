@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "00. Список материалов"
+date:   2013-09-02 09:46:07
+categories: jekyll update
+---
+
+На странице [Tutorials][haskell-tutorials] на официальном сайте Haskell предоставлены ссылки на
+туториалы, обучающие и мотивирующие материалы. Здесь представлена выдержка из этого списка, которую я
+бы рекомендовал к изучению в первую очередь.
+
+## Туториалы и обучающий материал по языку Haskell
+
+[Learn you A Haskell][LYAH] — это позитивно и понятно изложенный материал, начиная с самых основ и заканчивая
+введением в интересные вещи (`Functor`, `Applicative`, `Monad`, `Zipper`). Доступен [перевод на русский язык][LYAH-ru].
+
+[Yet Another Haskell Tutorial][YAHT] — классически изложенный материал, более полно раскрывающий особенности языка.
+
+[Haskell Wikibook][haskell-wikibook] — нечто среднее между справочником и туториалом по языку Haskell.
+В книге содержатся статьи по "продвинутым" темам, включая структуры данных, теорию типов и статьи о производительности
+программ на Haskell.
+
+[LYAH]:              http://learnyouahaskell.com/
+[LYAH-ru]:           http://learnhaskellforgood.narod.ru/learnyouahaskell.com/index.html
+[YAHT]:              http://en.wikibooks.org/wiki/Haskell/YAHT
+[haskell-wikibook]:  http://en.wikibooks.org/wiki/Haskell
+[haskell-tutorials]: http://www.haskell.org/haskellwiki/Tutorials
+
+## Почему стоит изучать Haskell?
+
+[Why Haskell matters][haskell-matters] — хорошее обсуждение преимуществ Haskell (с примерами).
+[Why functional programming matters][fp-matters] — раскрывает преимущества функциональных языков программирования и
+демонстрирует как функции высшего порядка и ленивые вычисления позволяют структурировать программу.
+
+[haskell-matters]:  http://www.haskell.org/haskellwiki/Why_Haskell_matters
+[fp-matters]:       http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html
+
