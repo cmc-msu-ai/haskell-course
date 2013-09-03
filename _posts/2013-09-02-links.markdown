@@ -29,6 +29,7 @@ categories: jekyll update
 ## Почему стоит изучать Haskell?
 
 [Why Haskell matters][haskell-matters] — хорошее обсуждение преимуществ Haskell (с примерами).
+
 [Why functional programming matters][fp-matters] — раскрывает преимущества функциональных языков программирования и
 демонстрирует как функции высшего порядка и ленивые вычисления позволяют структурировать программу.
 
