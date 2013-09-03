@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "01. С чего начать"
+title:  "01. Знакомство"
 date:   2013-09-03 09:46:07
-categories: jekyll update
+categories: lecture
 ---
 
 ### Установка
