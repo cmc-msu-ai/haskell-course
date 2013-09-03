@@ -9,7 +9,7 @@ categories: jekyll update
 туториалы, обучающие и мотивирующие материалы. Здесь представлена выдержка из этого списка, которую я
 бы рекомендовал к изучению в первую очередь.
 
-## Туториалы и обучающий материал по языку Haskell
+### Туториалы и обучающий материал по языку Haskell
 
 [Learn you A Haskell][LYAH] — это позитивно и понятно изложенный материал, начиная с самых основ и заканчивая
 введением в интересные вещи (`Functor`, `Applicative`, `Monad`, `Zipper`). Доступен [перевод на русский язык][LYAH-ru].
@@ -26,7 +26,7 @@ categories: jekyll update
 [haskell-wikibook]:  http://en.wikibooks.org/wiki/Haskell
 [haskell-tutorials]: http://www.haskell.org/haskellwiki/Tutorials
 
-## Почему стоит изучать Haskell?
+### Почему стоит изучать Haskell?
 
 [Why Haskell matters][haskell-matters] — хорошее обсуждение преимуществ Haskell (с примерами).
 

@@ -1,6 +1,7 @@
 body {
   font-family: Helvetica, arial, sans-serif;
   font-size: 14px;
+  text-align: justify;
   line-height: 1.6;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -385,3 +386,38 @@ pre code, pre tt {
   background-color: transparent;
   border: none;
 }
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+.site .footer {
+  font-size: 80%;
+  color: #666;
+  border-top: 4px solid #eee;
+  margin-top: 2em;
+  overflow: hidden;
+}
+
+.site .footer .contact {
+  float: left;
+  margin-right: 3em;
+}
+
+.site .footer .contact a {
+  color: #8085C1;
+  text-align: center;
+}
+
+.site .footer .rss {
+  margin-top: 1.1em;
+  margin-right: -.2em;
+  float: right;
+}
+
+.site .footer .rss img {
+  border: 0;
+}
+
