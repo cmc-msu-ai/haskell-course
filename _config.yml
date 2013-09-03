@@ -1,3 +1,4 @@
 name: "Курс \"Программирование на Haskell\""
+baseurl:  /haskell-course
 markdown: redcarpet
 pygments: true
