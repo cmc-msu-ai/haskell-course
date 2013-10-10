@@ -2,4 +2,4 @@ haskell-course
 ==============
 
 CMC MSU Haskell course materials.
-See [haskell-course site](http://fizruk.github.io/haskell-course/).
+See [haskell-course site](http://cmc-msu-ai.github.io/haskell-course/).
