@@ -190,7 +190,7 @@ sum xs = foldl (\acc n -> acc + n) 0 xs
 
 -- более простая реализация
 sum = foldl (+) 0
-product = foldl (*) 0
+product = foldl (*) 1
 
 -- проверка, находится ли элемент в списке
 elem :: (Eq a) => a -> [a] -> Bool
